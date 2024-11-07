@@ -1,3 +1,8 @@
+#https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+#Install dataset here
+
+
+
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
